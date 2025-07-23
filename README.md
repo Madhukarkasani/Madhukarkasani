@@ -25,15 +25,6 @@
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" /> <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/-Spyder-FF0000?style=flat&logo=spyder-ide&logoColor=white" /> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" /> 
 </p>
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhukarkasani&show_icons=true&theme=tokyonight" alt="Madhukar's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhukarkasani&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
