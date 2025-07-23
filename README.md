@@ -7,8 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on **data analytics projects** involving Python, SQL, and healthcare datasets
-- 🌱 I’m currently learning **Big Data tools, Apache Spark, AWS, and system design**
+- 🔭  I’m currently working as a Data Analytics Extern at TrueBridge Healthcare, where I’m analyzing healthcare datasets using Python, SQL, and visualization tools to extract insights, support decision-making, and build predictive models.
 - 👨‍💻 All of my projects are available at: [github.com/Madhukarkasani](https://github.com/Madhukarkasani)
 - 🧠 Recent Projects:  
   - 🎮 *Video Game Sales Analysis using R*  
@@ -24,14 +23,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zoho%20Analytics-DC143C?style=flat" />
-  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+<<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/-Zoho%20Analytics-DC143C?style=flat" /> <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" /> <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/-Spyder-FF0000?style=flat&logo=spyder-ide&logoColor=white" /> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
