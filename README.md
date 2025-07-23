@@ -8,15 +8,15 @@
 ---
 
 - 🔭  I’m currently working as a Data Analytics Extern at TrueBridge Healthcare, where I’m analyzing healthcare datasets using Python, SQL, and visualization tools to extract insights, support decision-making, and build predictive models.
-👨‍💻 All of my projects are available at: [github.com/Madhukarkasani](https://github.com/Madhukarkasani)
-🧠 Recent Projects:  
-  🎮 *Video Game Sales Analysis using R*  
-  📊 *Sales Forecasting & Dashboard with Python + SQL*  
-  💉 *Diabetes Risk Analysis using ML and EDA*
-📝 I regularly write about my learnings and projects [on LinkedIn](https://www.linkedin.com/in/madhukarkasani/)
-💬 Ask me about **Python, SQL, BI tools, or transitioning into tech as an international student**
-📫 How to reach me: **madhukar1023@gmail.com**
-⚡ Fun fact: I'm also passionate about fitness, system design, and helping others learn tech!
+- 👨‍💻 All of my projects are available at: [github.com/Madhukarkasani](https://github.com/Madhukarkasani)
+- 🧠 Recent Projects:  
+  - 🎮 *Video Game Sales Analysis using R*  
+  - 📊 *Sales Forecasting & Dashboard with Python + SQL*  
+  - 💉 *Diabetes Risk Analysis using ML and EDA*
+- 📝 I regularly write about my learnings and projects [on LinkedIn](https://www.linkedin.com/in/madhukarkasani/)
+- 💬 Ask me about **Python, SQL, BI tools, or transitioning into tech as an international student**
+- 📫 How to reach me: **madhukar1023@gmail.com**
+- ⚡ Fun fact: I'm also passionate about fitness, system design, and helping others learn tech!
 
 ---
 
