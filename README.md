@@ -1,25 +1,58 @@
-<h1 align="center">Hey there! 👋 I'm Madhukar Goud Kasani</h1>
-<h3 align="center">🚀 Aspiring Data Engineer | Python & SQL Developer | MS in ITM @ Webster University</h3>
-### 🧰 Tech Stack
+<h1 align="center">Hi there 👋, I'm Madhukar Goud Kasani</h1>
+<h3 align="center">Aspiring Data Engineer | Python & SQL Enthusiast | Master's in ITM</h3>
 
-- **Languages:** Python, SQL, R, C, C++
-- **Tools & IDEs:** Jupyter, Google Colab, VS Code, Git, GitHub
-- **Data & BI Tools:** Power BI, Zoho Analytics, Tableau, MS Excel
-- **Big Data & Cloud:** AWS (S3, EC2), Hadoop, Spark, Hive
-- **Concepts:** ETL, Data Modeling, Regression, Classification, Dashboarding
-### 🚀 Featured Projects
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Madhukarkasani&label=Profile%20views&color=0e75b6&style=flat" alt="Madhukarkasani" />
+</p>
 
-- 🎮 [Video Game Sales Analysis in R](https://github.com/Madhukarkasani/video-game-sales-analysis-r)  
-  Exploratory Data Analysis, regression modeling & visualization using `ggplot2`, `caret`, and `dplyr`.
+---
 
-- 📊 [Sales Forecasting Dashboard](https://github.com/Madhukarkasani/sales-forecast-dashboard)  
-  Python + SQL + Matplotlib + Power BI — a full-stack analytics project with visual storytelling.
+- 🔭 I’m currently working on **data analytics projects** involving Python, SQL, and healthcare datasets
+- 🌱 I’m currently learning **Big Data tools, Apache Spark, AWS, and system design**
+- 👨‍💻 All of my projects are available at: [github.com/Madhukarkasani](https://github.com/Madhukarkasani)
+- 🧠 Recent Projects:  
+  - 🎮 *Video Game Sales Analysis using R*  
+  - 📊 *Sales Forecasting & Dashboard with Python + SQL*  
+  - 💉 *Diabetes Risk Analysis using ML and EDA*
+- 📝 I regularly write about my learnings and projects [on LinkedIn](https://www.linkedin.com/in/madhukarkasani/)
+- 💬 Ask me about **Python, SQL, BI tools, or transitioning into tech as an international student**
+- 📫 How to reach me: **madhukarkasani@gmail.com**
+- ⚡ Fun fact: I'm also passionate about fitness, system design, and helping others learn tech!
 
-- 💉 [Diabetes Risk Prediction](https://github.com/Madhukarkasani/diabetes-risk-analysis)  
-  ML-based health analysis using logistic regression and pandas profiling.
-### 🎯 Goals for 2025
+---
 
-- 🎓 Graduate with strong academic & project portfolio
-- 💼 Land a full-time role in Data Engineering / BI
-- 🛠️ Contribute to open-source or community data projects
-- 🗣️ Improve communication and interview confidence
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zoho%20Analytics-DC143C?style=flat" />
+  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhukarkasani&show_icons=true&theme=tokyonight" alt="Madhukar's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhukarkasani&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/madhukarkasani/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:madhukarkasani@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
